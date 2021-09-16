@@ -6,7 +6,7 @@
 
 	<groupId>com.example</groupId>
 	<artifactId>custom-config-source</artifactId>
-	<version>0.4-SNAPSHOT</version>
+	<version>0.1-SNAPSHOT</version>
 	<name>Custom Config Source Demo</name>
 
 	<properties>
